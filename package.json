@@ -1,0 +1,24 @@
+{
+  "name": "whatsappbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.1",
+    "awesome-phonenumber": "^5.10.0",
+    "axios": "^1.4.0",
+    "chalk": "^4.1.2",
+    "figlet": "^1.6.0",
+    "lodash": "^4.17.21",
+    "pino": "^8.15.0",
+    "twilio": "^4.15.0"
+  }
+}
