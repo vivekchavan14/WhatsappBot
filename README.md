@@ -1,6 +1,6 @@
 # WhatsApp Bot using Baileys
 
-A versatile WhatsApp bot built using the Baileys library, designed to perform various tasks and automate interactions on WhatsApp.
+A versatile WhatsApp bot built using the Baileys library, designed to perform various tasks and automate interactions on WhatsApp
 
 ## Features
 
